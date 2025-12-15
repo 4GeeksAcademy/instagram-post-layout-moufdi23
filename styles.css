@@ -1,0 +1,38 @@
+body {
+  background-color: black;
+}
+
+.post {
+  width: 40%;
+  margin: auto;
+  background-color: white;
+}
+
+.post-header {
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+  padding-top:  10px; ;
+  font-size: larger;
+  ;
+}
+
+.post-title {
+  margin-right: auto;
+
+}
+h4{margin: -1px;;         }
+.post-image {
+  width: 100%;
+  display: block;
+}
+.post-actions {
+  display: flex;
+  justify-content: space-between;
+  padding: 12px;
+  font-size: x-large;
+}
+.post-discription{
+padding:6px;
+
+}
